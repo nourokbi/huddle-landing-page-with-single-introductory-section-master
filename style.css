@@ -432,6 +432,10 @@ footer .newsletter form a:hover {
 }
 
 @media (max-width: 550px) {
+    footer .footer-container {
+        width: 85%;
+        margin-inline: auto;
+    }
   footer .footer-container .split {
     flex-direction: column-reverse;
     gap: 70px;
@@ -452,19 +456,19 @@ footer .newsletter form a:hover {
   footer .footer-container .split .footer-logo + p + div {
     margin: 1.5em 0;
   }
-  footer .newsletter form {
+  footer .footer-container .newsletter form {
     display: flex;
     flex-direction: column;
     align-items: center;
     width: 100%;
     margin-top: 25px;
   }
-  footer .newsletter form input {
+  footer .footer-container .newsletter form input {
     width: 100%;
     margin: 0 0 10px 0;
     padding: 0.75em 0;
   }
-  footer .newsletter form a {
+  footer .footer-container .newsletter form a {
     align-self: flex-end;
     margin-right: 0;
   }
