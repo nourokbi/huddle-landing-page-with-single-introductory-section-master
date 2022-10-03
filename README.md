@@ -15,8 +15,6 @@ This is a solution to the [Huddle landing page with curved sections challenge on
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -32,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/responsive-landing-page-using-flexbox-jK9f__FVJS)
 - Live Site URL: (https://huddle-landing-page-with-single-introductory-section-19uesir72.vercel.app/)
 
 ## My process
